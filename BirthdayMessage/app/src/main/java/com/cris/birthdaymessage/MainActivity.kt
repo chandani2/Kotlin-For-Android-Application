@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun birthdayMessage(){
-        println("Happy Birthday Chandani Kumari")
+        println("Happy Birthday, Chandani Kumari")
 
         //Let's print a cake!
         println("    '''''    ")
