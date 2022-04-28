@@ -8,11 +8,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //here i am calling function
         birthdayMessage()
+
     }
 
     fun birthdayMessage(){
-        println("Happy Birthday, Chandani")
+        println("Happy Birthday Chandani Kumari")
 
         //Let's print a cake!
         println("    '''''    ")
