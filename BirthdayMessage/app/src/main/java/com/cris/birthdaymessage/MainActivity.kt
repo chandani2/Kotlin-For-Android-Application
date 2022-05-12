@@ -33,4 +33,8 @@ class MainActivity : AppCompatActivity() {
         println("You are allready ${age} days old ${name}!")
         println("${age} day old is the very best age to celebrate!")
     }
+
+    fun printBorder() {
+
+    }
 }
