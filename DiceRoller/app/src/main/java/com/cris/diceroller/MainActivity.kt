@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //btnRoll is val type veriable
         val btnRoll: Button = findViewById(R.id.btnRoll)
 
 
